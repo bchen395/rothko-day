@@ -1,0 +1,26 @@
+body {
+    background-color: #D3D3D3;
+}
+
+.paintings {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+    margin-top: 64px;
+   
+}
+
+#painting {
+    width: 369px;
+    height: 600px;
+}
+
+.middle {
+    margin-bottom: 24px;
+}
+
+.side {
+    margin-top: 24px;
+}
+
+
