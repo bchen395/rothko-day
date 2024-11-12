@@ -23,4 +23,14 @@ body {
     margin-top: 24px;
 }
 
+.slidecontainer {
+   margin-top: 20px;
+}
 
+.slider {
+    width: 100%;
+    display: block;
+    margin: 0 auto;    
+    width: 300px;
+    accent-color: gray;
+}
