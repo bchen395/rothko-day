@@ -23,7 +23,7 @@ body {
     margin-top: 24px;
 }
 
-.slidecontainer {
+.slidecontainer1, .slidecontainer2 {
    margin-top: 20px;
 }
 
@@ -33,4 +33,17 @@ body {
     margin: 0 auto;    
     width: 300px;
     accent-color: gray;
+}
+
+#myRange2 {
+    accent-color: rgba(233, 84, 106, 0.172);
+
+}
+
+#btn {
+    display: block;
+    margin: 20px auto;    
+    padding: 6px 20px;
+
+    
 }
